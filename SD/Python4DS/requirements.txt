@@ -1,0 +1,9 @@
+numpy
+matplotlib
+seaborn
+pandas
+nltk
+scipy
+sklearn
+seaborn
+foulium
