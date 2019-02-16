@@ -6,4 +6,4 @@ nltk
 scipy
 sklearn
 seaborn
-foulium
+folium
