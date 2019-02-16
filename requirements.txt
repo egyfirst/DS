@@ -8,3 +8,4 @@ sklearn
 seaborn
 folium
 tensorflow
+kaggle
